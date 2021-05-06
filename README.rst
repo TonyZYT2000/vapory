@@ -2,6 +2,17 @@
    :alt: [logo]
    :align: center
 
+Comment
+========
+
+PIP release is broken, install it by script:
+
+.. code:: bash
+
+   python setup.py install
+   
+   
+To call POVRay correctly, you also need to add POVRay executable to system PATH.
 
 Vapory
 ========
